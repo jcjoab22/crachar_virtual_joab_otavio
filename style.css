@@ -22,3 +22,41 @@ body {
     color: rgb(121, 125, 129);
     font-size: 20px;
 }
+
+.badge {
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 20px;
+    
+    
+}
+
+.badge-html {
+    background-color: rgba(238, 193, 193, 0.774);
+    color: rgb(207, 37, 37);
+}
+
+.badge-css {
+    background-color: rgba(139, 191, 240, 0.692);
+    color: rgb(3, 68, 209);
+}
+
+.badge-git {
+    background-color: rgba(214, 180, 117, 0.418);
+    color: orange;
+}
+
+ 
+
+.badge-status{
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: rgba(153, 238, 210, 0.452);
+    color: rgb(23, 112, 82);
+}
+
+.destaque-senai{
+    color: blue;
+
+}
